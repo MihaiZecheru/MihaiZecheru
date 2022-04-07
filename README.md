@@ -1,6 +1,6 @@
 Username: @ChryslerChris
 
-Email: zecheruchris@gmail.com
+Email: mihai@mzecheru.com
 
 Password: 123abc
 
