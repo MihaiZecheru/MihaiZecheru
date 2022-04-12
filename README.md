@@ -1,4 +1,4 @@
-Username: @Mihai.Zecheru
+Username: @MihaiZecheru
 
 Email: mihai@mzecheru.com
 
