@@ -6,4 +6,4 @@ Password: 123abc
 
 ----------------------------------------------
 
-Programming is my hobby. I know Python, JS, C#, html, and css.
+Programming is my hobby. I know Python, JS, C#, C++, html, and css.
