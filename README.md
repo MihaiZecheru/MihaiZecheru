@@ -2,8 +2,10 @@ Email: zecheruchris@gmail.com
 ----------------------------------------------
 Programming is my hobby.
 
-Currently studying Computer Science at UC Irvine. Will graduate 2028.
+B.S. in Computer Science at UC Irvine, expected June 2028.
 
-I know Python, JS, TS, C#, Java, SQL, C, C++, HTML, and CSS.
+Member of ICSSC - Working on PeterPlate, UCI's student-made dining app.
 
-I'm best at Python, TypeScript, and C#.
+I know Python, JS, TS, C++, C#, C, Java, SQL, HTML, and CSS.
+
+I'm best at TypeScript, C++, and C#.
