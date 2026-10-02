@@ -4,7 +4,7 @@ Programming is my hobby.
 
 B.S. in Computer Science at UC Irvine, expected June 2028.
 
-Member of ICSSC - Working on PeterPlate, UCI's student-made dining app.
+Member of [ICSSC](https://github.com/icssc/) - Working on [PeterPlate](https://github.com/icssc/PeterPlate), UCI's student-made dining app.
 
 I know Python, JS, TS, C++, C#, C, Java, SQL, HTML, and CSS.
 
